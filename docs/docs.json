@@ -1262,7 +1262,11 @@
               },
               {
                 "group": "指南",
-                "pages": ["zh-CN/start/openclaw", "zh-CN/start/learning-roadmap"]
+                "pages": [
+                  "zh-CN/start/openclaw",
+                  "zh-CN/start/learning-roadmap",
+                  "zh-CN/start/code-analysis-guide"
+                ]
               }
             ]
           },

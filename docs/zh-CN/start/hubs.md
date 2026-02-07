@@ -31,6 +31,7 @@ x-i18n:
 - [配置示例](/gateway/configuration-examples)
 - [OpenClaw 助手](/start/openclaw)
 - [学习路线图](/start/learning-roadmap)
+- [代码分析指南](/start/code-analysis-guide)
 - [展示](/start/showcase)
 - [背景故事](/start/lore)
 
