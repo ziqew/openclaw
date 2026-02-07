@@ -30,6 +30,7 @@ x-i18n:
 - [配置](/gateway/configuration)
 - [配置示例](/gateway/configuration-examples)
 - [OpenClaw 助手](/start/openclaw)
+- [学习路线图](/start/learning-roadmap)
 - [展示](/start/showcase)
 - [背景故事](/start/lore)
 
