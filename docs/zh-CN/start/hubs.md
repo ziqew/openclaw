@@ -37,6 +37,9 @@ x-i18n:
 
 ## 安装 + 更新
 
+- [安装概览](/install/index)
+- [安装器内部机制](/install/installer)
+- [目录结构](/install/directory-structure)
 - [Docker](/install/docker)
 - [Nix](/install/nix)
 - [更新 / 回滚](/install/updating)

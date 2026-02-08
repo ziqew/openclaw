@@ -1275,7 +1275,11 @@
             "groups": [
               {
                 "group": "安装概览",
-                "pages": ["zh-CN/install/index", "zh-CN/install/installer"]
+                "pages": [
+                  "zh-CN/install/index",
+                  "zh-CN/install/installer",
+                  "zh-CN/install/directory-structure"
+                ]
               },
               {
                 "group": "安装方式",
